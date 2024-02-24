@@ -33,15 +33,15 @@
 
 5. **Named Entity Recognition:** Named Entity Recognition (NER) is a natural language processing (NLP) task that involves identifying and classifying named entities (such as persons, organizations, locations, dates, and more) in a text. The goal of NER is to extract structured information from unstructured text, making it easier to understand and analyze.
 
-**For Example**:
-
-"This Metal Estate company was established in 1920 in Pakistan with budget of 1 million dollars, which takes around 5 years."
-
-**NER will do this**:
-
-- Organization: Metal State
-- Place: Pakistan
-- Century: 1920
-- Money: 1 million dollars
-- Time: 5 years
+   **For Example**:
+   
+   "This Metal Estate company was established in 1920 in Pakistan with budget of 1 million dollars, which takes around 5 years."
+   
+   **NER will do this**:
+   
+   - Organization: Metal State
+   - Place: Pakistan
+   - Century: 1920
+   - Money: 1 million dollars
+   - Time: 5 years
 
