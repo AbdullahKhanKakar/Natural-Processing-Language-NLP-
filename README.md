@@ -19,18 +19,19 @@
 
 4. **Parts of Speech Tagging**: Part-of-speech (POS) tagging is a crucial task in Natural Language Processing (NLP) that involves assigning a specific grammatical category (such as noun, verb, adjective, etc.) to each word in a sentence. POS tagging is essential for various NLP applications, including text analysis, information retrieval, and machine translation. Here are some common parts of speech and their abbreviations:
 
-- Noun (NN): A word that represents a person, place, thing, or idea. Example: "dog," "city," "happiness."
-- Verb (VB): A word that expresses an action or a state of being. Example: "run," "eat," "is."
-- Adjective (JJ): A word that describes or modifies a noun. Example: "happy," "red," "tall."
-- Adverb (RB): A word that modifies a verb, adjective, or another adverb, often providing information about time, manner, place, or degree. Example: "quickly," "very," "here."
-- Pronoun (PRP): A word that takes the place of a noun. Example: "he," "she," "it."
-- Preposition (IN): A word that shows the relationship between a noun (or pronoun) and other words in a sentence. Example: "in," "on," "under."
-- Conjunction (CC): A word that connects words, phrases, or clauses. Example: "and," "but," "or."
-- Interjection (UH): A word or phrase that expresses strong emotion. Example: "wow," "ouch," "oh."
-- Determiner (DT): A word that introduces a noun and identifies it in terms of quantity, possession, or definiteness. Example: "the," "some," "my."
-- Modal (MD): A verb that expresses possibility, necessity, or ability. Example: "can," "may," "must."
+   - Noun (NN): A word that represents a person, place, thing, or idea. Example: "dog," "city," "happiness."
+   - Verb (VB): A word that expresses an action or a state of being. Example: "run," "eat," "is."
+   - Adjective (JJ): A word that describes or modifies a noun. Example: "happy," "red," "tall."
+   - Adverb (RB): A word that modifies a verb, adjective, or another adverb, often providing information about time, manner, place, or degree. Example: "quickly," "very," "here."
+   - Pronoun (PRP): A word that takes the place of a noun. Example: "he," "she," "it."
+   - Preposition (IN): A word that shows the relationship between a noun (or pronoun) and other words in a sentence. Example: "in," "on," "under."
+   - Conjunction (CC): A word that connects words, phrases, or clauses. Example: "and," "but," "or."
+   - Interjection (UH): A word or phrase that expresses strong emotion. Example: "wow," "ouch," "oh."
+   - Determiner (DT): A word that introduces a noun and identifies it in terms of quantity, possession, or definiteness. Example: "the," "some," "my."
+   - Modal (MD): A verb that expresses possibility, necessity, or ability. Example: "can," "may," "must."
 
-- 5. **Named Entity Recognition:** Named Entity Recognition (NER) is a natural language processing (NLP) task that involves identifying and classifying named entities (such as persons, organizations, locations, dates, and more) in a text. The goal of NER is to extract structured information from unstructured text, making it easier to understand and analyze.
+
+5. **Named Entity Recognition:** Named Entity Recognition (NER) is a natural language processing (NLP) task that involves identifying and classifying named entities (such as persons, organizations, locations, dates, and more) in a text. The goal of NER is to extract structured information from unstructured text, making it easier to understand and analyze.
 
 **For Example**:
 
